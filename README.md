@@ -9,7 +9,7 @@ ChatBuddy is a basic **Java console-based chatbot** that interacts with users, r
 
 ## 🔧 Technologies Used:  
 - Java
-- 
+
 ## 🚀 How to Run:  
 1. Clone the repository  
 2. Compile the code: `javac Chatbuddy.java`  
